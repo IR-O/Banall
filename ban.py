@@ -74,10 +74,10 @@ async def start_command(event):
         "Welcome to the Ban All Bot!\n"
         "This bot is designed to ban and unban users in groups",
         buttons=[
-            [Button.url("Support Channel", url="https://t.me/venomOwners")],
-            [Button.url("Support Group", url="https://t.me/venom_chatz")],
+            [Button.url("Support Channel", url="https://t.me/TALK_2_REL4TE")],
+            [Button.url("Support Group", url="https://t.me/iro_x_support")],
         ],
-        file='https://te.legra.ph/file/310a7fad596b00513692a.jpg',  # Replace with your image URL
+        file='https://te.legra.ph/file/a9a38dafcbcc757c6c7ae.jpg',  # Replace with your image URL
     )
 
 
